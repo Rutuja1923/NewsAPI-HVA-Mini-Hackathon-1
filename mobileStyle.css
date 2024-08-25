@@ -1,0 +1,13 @@
+@media (min-width:319px) and (max-width: 480px) {
+    /* For mobile phones: */
+
+    #title{
+        font-size: 35.957px;
+        margin-top: 29px;
+        margin-bottom:20px;
+    }
+    #title > svg {
+        width:26px ;
+        height:26px;
+    }
+}
