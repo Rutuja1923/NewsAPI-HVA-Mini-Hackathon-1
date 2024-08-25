@@ -1,0 +1,1 @@
+This is a web-page for NewsAPI.org . It is developed under HVA Mini Hackathon Challenge. The objective of the hackathon is to create a pixel-perfect replica of the design, including the mobile view.
