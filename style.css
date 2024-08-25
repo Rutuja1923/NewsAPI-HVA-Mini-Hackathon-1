@@ -189,6 +189,10 @@ body{
     letter-spacing: 0;
 }
 
+.links:hover{
+    background-color: #add8e6;;
+    padding:2px;
+}
 
 .footer{
     color: var(--Dark, #3C3030);
